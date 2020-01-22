@@ -1,21 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "starter",
+  "id": "commoncallbacks",
   "version": "${version}",
 
-  "name": "Fabric Starter",
+  "name": "Common Callbacks",
   "icon": "assets/starter/icon.png",
-  "description": "Template for starting out Fabric mods",
+  "description": "Common events for Fabric mods",
   "license": "MIT",
   "contact": {
-    "sources": "https://github.com/CottonMC/FabricStarter"
+    "sources": "https://github.com/CottonMC/CommonCallbacks"
   },
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "io.github.cottonmc.starter.FabricStarter"
-    ]
-  },
   "mixins": [
     "mixins.starter.json"
   ],
