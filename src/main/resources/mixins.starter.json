@@ -1,9 +1,0 @@
-{
-  "required": true,
-  "package": "io.github.cottonmc.ccb.mixin",
-  "compatibilityLevel": "JAVA_8",
-  "mixins": [
-    "MixinClientBuiltinResourcePackProvider",
-    "MixinMinecraftClient"
-  ]
-}

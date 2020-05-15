@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.function.Function;
 
 public final class CustomEventFactoryImpl {
-	private static final List<ListBackedEvent<?>> LIST_BACKED_EVENTS = new ArrayList();
+	private static final List<ListBackedEvent<?>> LIST_BACKED_EVENTS = new ArrayList<>();
 
 	private CustomEventFactoryImpl() {
 	}

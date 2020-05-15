@@ -12,7 +12,7 @@
   },
   "environment": "*",
   "mixins": [
-    "mixins.starter.json"
+    "mixins.commoncallbacks.json"
   ],
   "depends": {
     "fabricloader": ">=0.4.0"
